@@ -1,14 +1,19 @@
 ### Hi there 👋
 I'm Backend Developer for Web
 
-I have been developing 2D/3D map service as a GIS developer for 3 years.
-I also developed through JAVA Spring, and now I am studying Node.js.
+I have been developing 2D/3D map service using JAVA Spring as a GIS developer for 3 years.
+But now I am studying Node.js
 
 Let's all keep studying
 
-Skilss
+✍️ Skils
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=JAVA&logoColor=#007396"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
+<img src="https://img.shields.io/badge/Babel-52B0E7?style=flat-square&logo=Babel&logoColor=white"/>
+
 
 
 <!--
